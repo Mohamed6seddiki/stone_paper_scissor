@@ -1,0 +1,4 @@
+﻿  stone_paper_scissor.cpp
+C:\Users\MASSIVE\Desktop\project\rock_paper_scier\stone_paper_scissor\stone_paper_scissor\stone_paper_scissor.cpp(50,1): warning C4715: 'printChoice': not all control paths return a value
+C:\Users\MASSIVE\Desktop\project\rock_paper_scier\stone_paper_scissor\stone_paper_scissor\stone_paper_scissor.cpp(34,1): error C4716: 'readPlayerChoice': must return a value
+C:\Users\MASSIVE\Desktop\project\rock_paper_scier\stone_paper_scissor\stone_paper_scissor\stone_paper_scissor.cpp(136,1): error C4700: uninitialized local variable 'playerChoice' used

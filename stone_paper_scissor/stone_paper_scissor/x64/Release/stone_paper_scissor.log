@@ -1,0 +1,7 @@
+﻿  Generating code
+  Previous IOBJ not found, fall back to full compilation.
+C:\Users\MASSIVE\Desktop\hadhod\course 5\pro\stone_paper_scissor\stone_paper_scissor\stone_paper_scissor.cpp(34): error C4716: 'readPlayerChoice': must return a value
+C:\Users\MASSIVE\Desktop\hadhod\course 5\pro\stone_paper_scissor\stone_paper_scissor\stone_paper_scissor.cpp(50): warning C4715: 'printChoice': not all control paths return a value
+C:\Users\MASSIVE\Desktop\hadhod\course 5\pro\stone_paper_scissor\stone_paper_scissor\stone_paper_scissor.cpp(136): error C4700: uninitialized local variable 'playerChoice' used
+  All 107 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed

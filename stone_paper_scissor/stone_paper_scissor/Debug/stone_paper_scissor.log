@@ -1,0 +1,4 @@
+﻿  stone_paper_scissor.cpp
+C:\Users\MASSIVE\Desktop\hadhod\course 5\pro\stone_paper_scissor\stone_paper_scissor\stone_paper_scissor.cpp(50,1): warning C4715: 'printChoice' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\MASSIVE\Desktop\hadhod\course 5\pro\stone_paper_scissor\stone_paper_scissor\stone_paper_scissor.cpp(34,1): error C4716: 'readPlayerChoice' : doit retourner une valeur
+C:\Users\MASSIVE\Desktop\hadhod\course 5\pro\stone_paper_scissor\stone_paper_scissor\stone_paper_scissor.cpp(136,1): error C4700: variable locale 'playerChoice' non initialisée utilisée
