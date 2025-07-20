@@ -6,7 +6,7 @@ A console-based Rock Paper Scissors game written in C++ where players compete ag
 
 - **Interactive Gameplay**: Play multiple rounds against computer AI<br>
 - **Score Tracking**: Keeps track of wins, losses, and draws<br>
-- **Color-coded Results**: Visual feedback with different colors for outcomes<br>
+- **Color-coded Results**: Visual feedback with different colors for outcomes<br> 
 - **Customizable Rounds**: Choose how many rounds to play<br>
 - **Game Statistics**: Final results summary with detailed statistics<br>
 - **Replay Option**: Option to play multiple games in succession<br><br>
